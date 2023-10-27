@@ -33,9 +33,6 @@ namespace Inventory_management_system
            
         }
 
-        private void sample_Load(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 }
